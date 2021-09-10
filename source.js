@@ -1,6 +1,6 @@
 function hello()
 {
-	console.log("bonjour !");
+	console.log("bonjour !!!");
 }
 
 
